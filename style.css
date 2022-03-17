@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    margin-left: 0px;
+    padding: 0;
+}
+
+.contato{
+    margin-left: 20px;
+    color: black;
+    
+}
+
+/*textarea {
+    resize: none;
+}
+*/
+
+div.email{
+    display: inline-block;
+}
+div.telefone{
+    display: inline-block;
+}
+
